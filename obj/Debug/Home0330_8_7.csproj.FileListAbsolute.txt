@@ -1,0 +1,16 @@
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.csprojAssemblyReference.cache
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.MainForm.resources
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.Properties.Resources.resources
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.csproj.GenerateResource.cache
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.csproj.CoreCompileInputs.cache
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\bin\Debug\Home0330_8_7.exe.config
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\bin\Debug\Home0330_8_7.exe
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\bin\Debug\Home0330_8_7.pdb
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\bin\Debug\Newtonsoft.Json.dll
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\bin\Debug\Newtonsoft.Json.xml
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.csproj.CopyComplete
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.exe
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.pdb
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.EmployeeForm.resources
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.SearchByForm.resources
+D:\01_IT_all\00_STEP\Step_WinForms\Home0330_8_7\obj\Debug\Home0330_8_7.SeasonBirthday.resources
