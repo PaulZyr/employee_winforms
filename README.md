@@ -12,3 +12,4 @@ STEP homework WINFORMS
 год быка). Определить, кто из сотрудников родился в указанную
 пору года (вводится с клавиатуры).
 
+![Employee](https://user-images.githubusercontent.com/53310896/114656684-2f56b980-9cf7-11eb-8753-8e1e60baf688.jpg)
